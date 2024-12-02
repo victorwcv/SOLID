@@ -1,7 +1,9 @@
 import './style.css'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
-import "./01-srp";
+// import "./01-srp";
+import "./02-ocp-a";
+// import "./02-ocp-b";
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
