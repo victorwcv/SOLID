@@ -1,0 +1,32 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "delectus aut autem",
+    "body" : "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "quis ut nam facilis et officia qui",
+    "body" : "fugiat veniam minus\nculpa reprehenderit molestiae quia quidem consequatur\nharum tenetur magni natus\ntempore consequatur"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "fugiat veniam minus",
+    "body" : "fugiat veniam minus\nculpa reprehenderit molestiae quia quidem consequatur\nharum tenetur magni natus\ntempore consequatur"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "fugiat veniam minus",
+    "body" : "fugiat veniam minus\nculpa reprehenderit molestiae quia quidem consequatur\nharum tenetur magni natus\ntempore consequatur"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "fugiat veniam minus",
+    "body" : "fugiat veniam minus\nculpa reprehenderit molestiae quia quidem consequatur\nharum tenetur magni natus\ntempore consequatur"
+  }
+]
